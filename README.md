@@ -444,7 +444,7 @@ if submit_button:
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your app UI here)*
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/1e833e11-dc2e-4042-a183-7ecfce5620e8" />
 
 ---
 
